@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\ExampleFormApplication,\obj\Debug\ExampleFormApplication,.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ExampleFormApplication,\obj\Debug\ExampleFormApplication_.Form1.resources
+C:\Users\HP\Desktop\ExampleFormApplication,\obj\Debug\ExampleFormApplication_.UserInfo.resources
+C:\Users\HP\Desktop\ExampleFormApplication,\obj\Debug\ExampleFormApplication_.Properties.Resources.resources
+C:\Users\HP\Desktop\ExampleFormApplication,\obj\Debug\ExampleFormApplication,.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ExampleFormApplication,\obj\Debug\ExampleFormApplication,.csproj.CoreCompileInputs.cache
